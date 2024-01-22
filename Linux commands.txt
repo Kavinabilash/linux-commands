@@ -1,0 +1,39 @@
+Different ways to connect EC2 instance 
+-Connecting EC2 instance with the Access key and Secert key in AWS console 
+-Connecting through SSH with keypair name
+-Connecting through Session manager in aws console 
+-Connecting through EC2 instance connect in aws console
+ 
+Linux Commands
+
+1. man - man command will display the manual of commands with options
+2. ls -to list all the file and folders  
+3. cd - to change directory 
+4. mkdir - to create folder
+5. rmdir - to delete folder
+6. touch - to create empty file 
+7. pwd- to view current folder path
+8. mv - to move the file or rename the file 
+i.e to move mention source file and destninaltion folder , to rename mention current file and new file name 
+9. cp - to copy the file 
+10. cat - Display the content of file
+11. Sudo - to login as root user
+12. su -  to switch the user
+13. echo - to display the message of command
+14. chmod - change the file permission 
+15. chown - change the owner of the file or directory 
+16. ps - show the  running process 
+17. kill - kill the process with help of process ID
+18. wget - to retrive the file from internet 
+19. curl - to download the data from internet
+20. Date - shows the today date 
+21. uptime -shows the uptime 
+22. vi - opens the editor to edit the file 
+23. History - shows the history of commands 
+24. ping - test the reachability of the website
+25. ip addr show - display the ip address
+26. At - schedule task for only one time
+27. corntab - Schedule task for multiple time
+28. yum - to install packages
+29. tar zip - to compress into zip file
+30. clear - clears the screen
